@@ -1,4 +1,6 @@
-#routes.rb
+# frozen_string_literal: true
+
+# routes.rb
 Rails.application.routes.draw do
   resources :rooms
   resources :users
